@@ -1,13 +1,10 @@
 package com.revature.steps;
 
 import com.revature.TestRunner;
-import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
-
-import java.time.Duration;
 import java.util.List;
 
 public class RemoveResourceSteps {
